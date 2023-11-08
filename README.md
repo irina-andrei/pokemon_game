@@ -11,3 +11,9 @@
 ![AltText](Images/pokemon4.png)
 
 ![AltText](Images/pokemon5.png)
+
+![AltText](Images/pokemon6.png)
+
+![AltText](Images/pokemon7.png)
+
+![AltText](Images/pokemon8.png)
